@@ -33,7 +33,7 @@
 
 
 import React, { useEffect, useState } from "react";
-import "./CharacterCounter.css";
+import "./React-Applications/CharacterCounter.css";
 
 const CharacterCounter = () => {
   const [text, setText] = useState("");
